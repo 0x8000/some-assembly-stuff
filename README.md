@@ -1,6 +1,6 @@
 arm64 assembly mach-o version practice, collection.
 
-Comparison
+different platforms comparison
 
 windows PE
 linux   ELF
