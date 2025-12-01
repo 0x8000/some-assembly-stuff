@@ -2,9 +2,16 @@
 
 ### different platforms comparison
 
-windows PE
-linux   ELF
-macosx  Mach-O
+
+   
+ 
+
+| Platform      | Version       |
+| ------------- | ------------- |
+| windows       | `PE`            |
+| linux         | `ELF`           |
+| osx           | `Mach-O`        |
+
 
 ## some resources:
 - https://news.ycombinator.com/item?id=40616930
@@ -13,4 +20,5 @@ macosx  Mach-O
 
 ## additional for x86:
 - https://github.com/0xAX/asm
+
 
