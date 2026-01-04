@@ -1,9 +1,6 @@
 # arm64 assembly (mach-o version) practice, collection.
 
 ### different platforms comparison
-
-
-   
  
 
 | Platform      | Version       |
