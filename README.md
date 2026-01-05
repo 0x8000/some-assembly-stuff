@@ -1,7 +1,4 @@
-# arm64 assembly (mach-o version) practice, collection.
 
-### different platforms comparison
- 
 
 | Platform      | Version       |
 | ------------- | ------------- |
@@ -9,6 +6,7 @@
 | linux         | `ELF`           |
 | osx           | `Mach-O`        |
 
+<!--
 
 ## some resources:
 - https://news.ycombinator.com/item?id=40616930
@@ -17,3 +15,5 @@
 
 ## additional for x86:
 - https://github.com/0xAX/asm
+
+-->
